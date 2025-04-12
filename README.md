@@ -28,17 +28,17 @@ This lab provides a detailed walkthrough of essental Git workfows like branching
 ## 1. Git Branching 
 
 1. List all branches: 
-
+```
  git branch
-
+```
 2. Create a new branch from master:
-
+```
  git branch b1 master 
-
+```
 3. Switch to the new branch:
-
+```
  git checkout b1
-
+```
 4. Verify the actve branch:
 
  git branch
